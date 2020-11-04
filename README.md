@@ -10,4 +10,4 @@
 
 `BinomialDistr_explain`: we will cover the pdf,cdf, quantiles, functions and considerations for each. Multiple plots and examples to get a general idea.
 
-`Chi Square Distribution Explained`:
+`Chi Square Distribution Explained`: This will cover a lot; pdf, csf, goodness of fit test, test for independence, plotting everything. Simple explanations and some help with what to pay attention to. 
