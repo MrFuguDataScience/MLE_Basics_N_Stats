@@ -2,6 +2,8 @@
 
 `This will be a repository focusing on techniques and visualization to help assist in learning each task:`
 
+[Numerical Technique for Statisticians](https://gbiomed.kuleuven.be/english/research/50000687/50000696/geertverbeke/cursuskort/optimcourse.pdf)
+
 `----------------------------------------`
 
 `Common_Distr_explain`: this pdf will have R-studio code for plotting the distributions shown. There will be brief explanations for each distribution such as Binomial, Poisson, Pereto, Logistic, Gamma for example with their relevant PDF functions and use cases.
