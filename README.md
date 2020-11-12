@@ -2,7 +2,7 @@
 
 `This will be a repository focusing on techniques and visualization to help assist in learning each task:`
 
-[Numerical Technique for Statisticians](https://gbiomed.kuleuven.be/english/research/50000687/50000696/geertverbeke/cursuskort/optimcourse.pdf)
+[Numerical Techniques for Statisticians](https://gbiomed.kuleuven.be/english/research/50000687/50000696/geertverbeke/cursuskort/optimcourse.pdf)
 
 `----------------------------------------`
 
@@ -13,3 +13,9 @@
 `BinomialDistr_explain`: we will cover the pdf,cdf, quantiles, functions and considerations for each. Multiple plots and examples to get a general idea.
 
 `Chi Square Distribution Explained`: This will cover a lot; pdf, csf, goodness of fit test, test for independence, plotting everything. Simple explanations and some help with what to pay attention to. 
+
+# Alternate Reading Supplements:
+
+[Weibull Theory](https://www.sciencedirect.com/topics/materials-science/weibull-distribution) | [Weibull Theory 02](https://web.cortland.edu/matresearch/WeibAssumpSTART.pdf)
+
+[Gamma Distribution Reading](https://www.sciencedirect.com/topics/engineering/gamma-distribution)
