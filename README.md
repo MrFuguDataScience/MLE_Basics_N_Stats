@@ -14,6 +14,8 @@
 
 `Chi Square Distribution Explained`: This will cover a lot; pdf, csf, goodness of fit test, test for independence, plotting everything. Simple explanations and some help with what to pay attention to. 
 
+`Lasso & Ridge Regression Background, Explaining and examples using R-studio`
+
 # Alternate Reading Supplements:
 
 [Weibull Theory](https://www.sciencedirect.com/topics/materials-science/weibull-distribution) | [Weibull Theory 02](https://web.cortland.edu/matresearch/WeibAssumpSTART.pdf)
