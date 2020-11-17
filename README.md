@@ -19,3 +19,5 @@
 [Weibull Theory](https://www.sciencedirect.com/topics/materials-science/weibull-distribution) | [Weibull Theory 02](https://web.cortland.edu/matresearch/WeibAssumpSTART.pdf)
 
 [Gamma Distribution Reading](https://www.sciencedirect.com/topics/engineering/gamma-distribution)
+
+[Lasso & Ridge Regression Notes: Netherlands](http://www.few.vu.nl/~wvanwie/Courses/HighdimensionalDataAnalysis/WNvanWieringen_HDDA_Lecture234_RidgeRegression_20182019.pdf)
