@@ -16,6 +16,8 @@
 
 `Lasso & Ridge Regression Background, Explaining and examples using R-studio`
 
+`Lasso & Ridge Examples in R, with explanations of how R works and interpreting results`
+
 # Alternate Reading Supplements:
 
 [Weibull Theory](https://www.sciencedirect.com/topics/materials-science/weibull-distribution) | [Weibull Theory 02](https://web.cortland.edu/matresearch/WeibAssumpSTART.pdf)
