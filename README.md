@@ -25,3 +25,5 @@
 [Gamma Distribution Reading](https://www.sciencedirect.com/topics/engineering/gamma-distribution)
 
 [Lasso & Ridge Regression Notes: Netherlands](http://www.few.vu.nl/~wvanwie/Courses/HighdimensionalDataAnalysis/WNvanWieringen_HDDA_Lecture234_RidgeRegression_20182019.pdf) | [Lasso Super Lecture Arxiv](https://arxiv.org/pdf/1509.09169;Lecture)
+
+[Very Good ANOVA help](https://towardsdatascience.com/anova-in-r-4a4a4edc9448)
